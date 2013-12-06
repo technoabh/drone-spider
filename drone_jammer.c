@@ -1,8 +1,7 @@
 #if 0
-	shc Version 3.8.7, Generic Script Compiler
-	Copyright (c) 1994-2009 Francisco Rosales <frosal@fi.upm.es>
-
-	shc -f drone_jammer.sh 
+Drone jammer v1.0
+written by : netwrkspider (Abhisek Kumar)
+Website : www.netwrkspider.com
 #endif
 
 static  char data [] = 
