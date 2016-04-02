@@ -1,0 +1,1 @@
+This is a bash based drone jammer. It uses your wifi card to continuously send de-authenticate packets to every client on a specified channel...(like wifi network, Amazon Prime Air, Drone) at lest thats what its suppose to do. This program needs the Aircrack-ng suit to function and a wifi card that works with aircrack.
